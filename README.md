@@ -1,1 +1,49 @@
-# BYCYCLE_SALES_PROJECT_EXCEL
+# Sales Analysis Dashboard - Power BI & Excel
+
+## 📌 Overview  
+This project provides an in-depth **sales analysis using Power BI and Excel**, focusing on key insights such as **top-performing customers, seasonal sales trends, product sales distribution, and profit margins**.
+
+## 📊 Dashboard Screenshot  
+![Dashboard Screenshot](images/dashboard.png)  
+
+## 🌍 Top Countries by Sales  
+- **Italy (18%)**, **France (17%)**, and **Japan (15%)** are the top contributors.  
+- **USA & Canada together contribute 17%** of total sales.  
+
+## 🏆 Customer-Based Sales Insights  
+- **CUST_ID_004 is the highest spender** with **$1.08M in sales**.  
+- **The top 3 customers contribute nearly 80%** of total revenue.  
+
+## 🏢 Segment-Based Sales Trends  
+- **Government sector dominates** with **44% of sales**.  
+- **Small Business follows at 36%**, and **Enterprise at 17%**.  
+- **Channel Partners & Midmarket segments contribute the least (2% each).**  
+
+## 📅 Seasonal Sales & Profit Trends  
+- **July & December saw the highest sales**, exceeding **$1.13M**.  
+- **January had the highest profit margin (17%)**, whereas **October had the lowest (11%)**.  
+- **October recorded the lowest total sales ($67M).**  
+
+## 🔥 Top-Selling Products  
+| **Product Name** | **Year** | **Total Sales** |
+|-----------------|---------|----------------|
+| **Paseo**      | 2021    | 59,14,747      |
+| **Velo**       | 2021    | 61,97,300      |
+| **VTT**        | 2021    | 54,01,427      |
+| **Montana**    | 2021    | 39,75,783      |
+| **Amarilla**   | 2021    | 35,19,133      |
+| **Carretera**  | 2021    | 14,06,866      |
+
+- **Paseo leads** with **31% of total unit sales**.  
+- **Montana (14%) & VTT (16%)** follow.  
+- **Amarilla & Carretera contribute lower unit sales (12-13%).**  
+
+## 💰 Overall Financial Summary  
+- **Total Sales:** **$1.18B**  
+- **Profit Margin:** **14.23%**  
+- **Total Units Sold:** **1.12M**  
+
+
+## 🔚 Conclusion  
+This analysis highlights **key sales trends, customer spending patterns, and segment-wise performance**. The insights derived help in **business strategy, inventory planning, and revenue optimization**.
+
